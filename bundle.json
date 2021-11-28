@@ -1,0 +1,212 @@
+{
+	"name": "web-component-ckeditor5", 
+	"resources": {
+		"ckeditor-prebuilt.js": {
+			"url": "ckeditor-prebuilt.js",
+			"template": false
+		},
+		"translations": {
+			"kk.js": {
+				"url": "translations/kk.js"
+			}, 
+			"eu.js": {
+				"url": "translations/eu.js"
+			}, 
+			"uk.js": {
+				"url": "translations/uk.js"
+			}, 
+			"en-au.js": {
+				"url": "translations/en-au.js"
+			}, 
+			"ko.js": {
+				"url": "translations/ko.js"
+			}, 
+			"ug.js": {
+				"url": "translations/ug.js"
+			}, 
+			"lv.js": {
+				"url": "translations/lv.js"
+			}, 
+			"bg.js": {
+				"url": "translations/bg.js"
+			}, 
+			"id.js": {
+				"url": "translations/id.js"
+			}, 
+			"zh-cn.js": {
+				"url": "translations/zh-cn.js"
+			}, 
+			"az.js": {
+				"url": "translations/az.js"
+			}, 
+			"th.js": {
+				"url": "translations/th.js"
+			}, 
+			"it.js": {
+				"url": "translations/it.js"
+			}, 
+			"fa.js": {
+				"url": "translations/fa.js"
+			}, 
+			"fi.js": {
+				"url": "translations/fi.js"
+			}, 
+			"sk.js": {
+				"url": "translations/sk.js"
+			}, 
+			"de-ch.js": {
+				"url": "translations/de-ch.js"
+			}, 
+			"kn.js": {
+				"url": "translations/kn.js"
+			}, 
+			"ms.js": {
+				"url": "translations/ms.js"
+			}, 
+			"pt-br.js": {
+				"url": "translations/pt-br.js"
+			}, 
+			"hu.js": {
+				"url": "translations/hu.js"
+			}, 
+			"ast.js": {
+				"url": "translations/ast.js"
+			}, 
+			"pl.js": {
+				"url": "translations/pl.js"
+			}, 
+			"gu.js": {
+				"url": "translations/gu.js"
+			}, 
+			"ru.js": {
+				"url": "translations/ru.js"
+			}, 
+			"et.js": {
+				"url": "translations/et.js"
+			}, 
+			"pt.js": {
+				"url": "translations/pt.js"
+			}, 
+			"ar.js": {
+				"url": "translations/ar.js"
+			}, 
+			"tr.js": {
+				"url": "translations/tr.js"
+			}, 
+			"cs.js": {
+				"url": "translations/cs.js"
+			}, 
+			"gl.js": {
+				"url": "translations/gl.js"
+			}, 
+			"el.js": {
+				"url": "translations/el.js"
+			}, 
+			"sr.js": {
+				"url": "translations/sr.js"
+			}, 
+			"he.js": {
+				"url": "translations/he.js"
+			}, 
+			"sr-latn.js": {
+				"url": "translations/sr-latn.js"
+			}, 
+			"tk.js": {
+				"url": "translations/tk.js"
+			}, 
+			"af.js": {
+				"url": "translations/af.js"
+			}, 
+			"hi.js": {
+				"url": "translations/hi.js"
+			}, 
+			"sv.js": {
+				"url": "translations/sv.js"
+			}, 
+			"hr.js": {
+				"url": "translations/hr.js"
+			}, 
+			"km.js": {
+				"url": "translations/km.js"
+			}, 
+			"nl.js": {
+				"url": "translations/nl.js"
+			}, 
+			"ca.js": {
+				"url": "translations/ca.js"
+			}, 
+			"lt.js": {
+				"url": "translations/lt.js"
+			}, 
+			"vi.js": {
+				"url": "translations/vi.js"
+			}, 
+			"es.js": {
+				"url": "translations/es.js"
+			}, 
+			"eo.js": {
+				"url": "translations/eo.js"
+			}, 
+			"sq.js": {
+				"url": "translations/sq.js"
+			}, 
+			"ku.js": {
+				"url": "translations/ku.js"
+			}, 
+			"no.js": {
+				"url": "translations/no.js"
+			}, 
+			"ne.js": {
+				"url": "translations/ne.js"
+			}, 
+			"ja.js": {
+				"url": "translations/ja.js"
+			}, 
+			"ro.js": {
+				"url": "translations/ro.js"
+			}, 
+			"si.js": {
+				"url": "translations/si.js"
+			}, 
+			"oc.js": {
+				"url": "translations/oc.js"
+			}, 
+			"zh.js": {
+				"url": "translations/zh.js"
+			}, 
+			"tt.js": {
+				"url": "translations/tt.js"
+			}, 
+			"da.js": {
+				"url": "translations/da.js"
+			}, 
+			"sl.js": {
+				"url": "translations/sl.js"
+			}, 
+			"nb.js": {
+				"url": "translations/nb.js"
+			}, 
+			"de.js": {
+				"url": "translations/de.js"
+			}, 
+			"fr.js": {
+				"url": "translations/fr.js"
+			}, 
+			"en-gb.js": {
+				"url": "translations/en-gb.js"
+			}
+		}, 
+		"ckeditor5.js": {
+			"url": "ckeditor5.js"
+		}, 
+		"readme.md": {
+			"url": "readme.md"
+		}, 
+		"ckeditor5-page.js": {
+			"url": "ckeditor5-page.js"
+		}, 
+		"ckeditor5.tpl": {
+			"url": "ckeditor5.tpl"
+		}
+	}
+}
